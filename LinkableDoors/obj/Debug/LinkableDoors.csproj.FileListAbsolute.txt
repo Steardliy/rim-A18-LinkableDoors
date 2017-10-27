@@ -8,3 +8,9 @@ C:\GitLocal\rim-A17-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.dll
 C:\GitLocal\rim-A17-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.pdb
 C:\GitLocal\rim-A17-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.csprojResolveAssemblyReference.cache
 C:\GitLocal\rim-A17-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.csproj.CoreCompileInputs.cache
+C:\GitLocal\rim-A18-LinkableDoors\LinkableDoors\bin\Debug\LinkableDoors.dll
+C:\GitLocal\rim-A18-LinkableDoors\LinkableDoors\bin\Debug\LinkableDoors.pdb
+C:\GitLocal\rim-A18-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.csprojResolveAssemblyReference.cache
+C:\GitLocal\rim-A18-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.csproj.CoreCompileInputs.cache
+C:\GitLocal\rim-A18-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.dll
+C:\GitLocal\rim-A18-LinkableDoors\LinkableDoors\obj\Debug\LinkableDoors.pdb

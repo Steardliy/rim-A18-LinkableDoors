@@ -2,18 +2,18 @@
 <Patch>
 	<Operation Class="PatchOperationAdd">
 		<xpath>*/ThingDef[@Name="DoorBase"]/comps</xpath>
-		<Value>
+		<value>
 			<li Class="LinkableDoors.CompProperties_Linkable">
 				<linkableLimit>9999</linkableLimit>
 			</li>
-		</Value>
+		</value>
 	</Operation>
 	
 	<Operation Class="PatchOperationReplace">
 		<xpath>*/ThingDef[@Name="DoorBase"]/thingClass</xpath>
-		<Value>
+		<value>
 			<thingClass>LinkableDoors.Building_LinkableDoor</thingClass>
-		</Value>
+		</value>
 	</Operation>
 	
 	<Operation Class="PatchOperationSequence">
@@ -24,17 +24,17 @@
 	    </li>
 	    <li Class="PatchOperationReplace">
 			<xpath>*/ThingDef[thingClass = "Building_Door"]/thingClass</xpath>
-			<Value>
+			<value>
 				<thingClass>LinkableDoors.Building_LinkableDoor</thingClass>
-			</Value>
+			</value>
 		</li>
 		<li Class="PatchOperationAdd">
 			<xpath>*/ThingDef[thingClass = "LinkableDoors.Building_LinkableDoor"]/comps</xpath>
-			<Value>
+			<value>
 				<li Class="LinkableDoors.CompProperties_Linkable">
 				<linkableLimit>9999</linkableLimit>
 			</li>
-			</Value>
+			</value>
 		</li>
 	  </operations>
 	</Operation>
